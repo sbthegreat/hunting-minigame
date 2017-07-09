@@ -1,0 +1,5 @@
+Squirrel,2,1,8
+Snake,2,1,8
+Bear,75,2,4
+Deer,75,2,6
+Bison,200,3,2
